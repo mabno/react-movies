@@ -1,3 +1,4 @@
+
 # 📽️ React Movies App
 ## Description
 Simple React App that allows you upload and save your favorites movies
@@ -22,12 +23,12 @@ Simple React App that allows you upload and save your favorites movies
 
 
 ## Languages & tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="80"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="80"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="80"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="80"/>
 
 ## Run with Docker
@@ -37,3 +38,9 @@ Simple React App that allows you upload and save your favorites movies
     $ docker-compose up
 
 Finally navigate to http://localhost:3000
+
+## Screenshots
+![Alt text](https://res.cloudinary.com/mabno/image/upload/v1643292342/react-movies_login.png "Signup screen")
+![Alt text](https://res.cloudinary.com/mabno/image/upload/v1643292342/react-movies_signup.png "Login screen")
+![Alt text](https://res.cloudinary.com/mabno/image/upload/v1643292342/react-movies_home.png "Movies screen")
+![Alt text](https://res.cloudinary.com/mabno/image/upload/v1643292342/react-movies_mymovies.png "My Movies screen")
